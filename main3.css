@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+.img-bg{
+    height:100%;
+    display:block;
+}
+.prod-des h3{
+    font-size: 40px;
+    font-weight: bold;
+    color:black;
+}
+.amount{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.prod-des .btn i{
+    color: black;
+}
+.minus{
+    background: transparent;
+    padding: 0 15px;
+    border: 3px solid rgba(0, 0, 0, 0.1)!important;
+}
+.plus{  background: transparent;
+    padding: 0 15px;
+    border: 3px solid rgba(0, 0, 0, 0.1)!important;
+}
+.prod-des button, .form-control{
+    height: 40px!important;
+    border:3px solid black!important;
+    color: black;
+    padding: 10px 20px;
+    background: transparent !important;
+    border-radius: 0;
+    font-size: 14px;
+}
+.btn-bg{
+    background: black!important;
+    color: blanchedalmond!important;
+}
