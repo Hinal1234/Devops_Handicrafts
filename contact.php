@@ -20,7 +20,7 @@
 </head>
 <body>
  <!--Navbar-->
- <nav class="navbar navbar-expand-sm navbar-dark bg-black">
+ <nav class="navbar navbar-expand-sm navbar-dark bg-black" style="top: 40px;">
         <div class="container">
             <a href="#" class="navbar-brand">HandiCrafts Online </a>
             <button class="navbar-toggler" data-toggle="collapse"
